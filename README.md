@@ -61,6 +61,6 @@ that would benefit most from doing so.
 ## Repository
 
 ```
-notebooks/churn_model.ipynb    EDA, preprocessing, grid search, evaluation
+churn_model.ipynb    EDA, preprocessing, grid search, evaluation
 figures/                       ROC curve, feature importance
 ```
