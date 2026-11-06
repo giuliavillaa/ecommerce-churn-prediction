@@ -4,7 +4,7 @@ Binary churn classification on e-commerce customer records, with exploratory ana
 driving feature selection and gradient boosting for the model.
 
 Artificial Intelligence for Marketing and Customer Analytics, BSc in Artificial
-Intelligence — University of Pavia, University of Milano-Bicocca, University of Milan.
+Intelligence, University of Pavia, University of Milano-Bicocca, University of Milan.
 
 ![ROC curve and feature importance](figures/churn.jpg)
 
